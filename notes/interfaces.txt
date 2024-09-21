@@ -1,0 +1,8 @@
+1. anonymous inner class
+    -- InterafaceName identifier = new InterafaceName() {
+       ** implementation of abstarct methods
+    }
+
+Interface x = new Interface() {
+   
+}
